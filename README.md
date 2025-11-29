@@ -1,6 +1,10 @@
 # 1laba
 Подготовили Щербина **Лина** и Фаткуллина **Лина**ра
+
+
 <img width="570" height="284" alt="image" src="https://github.com/user-attachments/assets/72d7978a-f04f-4f6d-b746-aaf4f59efb3b" />
+
+
 
 **Цель работы**
 
